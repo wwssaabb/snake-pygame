@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境（体积大、平台相关，建议由使用者自行创建）
+.venv/
+venv/
+
+# 运行时产物
+error.log
+debug.log
+.tmp/
+.test-tmp/
+.shot-tmp/
+.edge-tmp/
+
+# 本机排行榜成绩（如需保留初始空榜，可改为只忽略内容变化）
+# leaderboard.json
